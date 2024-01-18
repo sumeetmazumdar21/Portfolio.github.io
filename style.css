@@ -13,7 +13,7 @@ body::-webkit-scrollbar {
 
 #body-header {
     height: 65vh;
-    opacity: 0.8;
+    opacity: 0.4;
     background-image: url(https://ninjasfiles.s3.amazonaws.com/asset_0000000000000020_1549743985_macbook_mouse.jpg);
     background-size: cover;
     background-position: center;
@@ -189,9 +189,10 @@ section:nth-child(2n + 1) {
     padding: 10px;
     width: 70%;
     text-align: justify;
-    color: grey;
+    color: rgb(45 60 53);
     line-height: 28px;
     font-size: 1.1rem;
+    font-weight: bolder;
     margin: auto;
 }
 
