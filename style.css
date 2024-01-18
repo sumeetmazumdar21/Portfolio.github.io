@@ -164,7 +164,7 @@ section:nth-child(2n + 1) {
 /*About Section*/
 
 #about {
-    height: auto;
+    height: 35vh;
     width: 100%;
     position: relative;
     margin-bottom: 30px;
